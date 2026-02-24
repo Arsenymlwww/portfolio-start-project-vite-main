@@ -1,7 +1,7 @@
 import { ProjectCard } from "./ProjectCard"
 import mockPhoto from "../../../assets/images/mockPhoto.jpg";
 import ASKPhoto from "../../../assets/images/Ask.fm_Logo.png";
-import SpacePhoto from "../../../assets/images/from-the-spacex-website-initial-analysis-indicates-the-v0-QHrR0jMmHcsnI3P959hRAaDEwSeUenkklfdfCJ0J0g8.webp";
+import SpacePhoto from "../../../assets/images/from-the-spacex.webp";
 import {
 ProjectsSection,
 ProjectsContainer,
