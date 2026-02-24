@@ -30,7 +30,7 @@ export const Particle = () => {
                     // background: {
                     //     color: { value: "#0d47a1" },
                     // },
-                    fpsLimit: 120,
+                    fpsLimit: 60,
                     interactivity: {
                         events: {
                             // onClick: { enable: true, mode: "push" },

@@ -20,10 +20,6 @@ export const HeaderContainer = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-        @media (max-width: 576px){
-        padding: 12px 15px;
-    }
 `
 
 export const DesktopNav = styled.div`

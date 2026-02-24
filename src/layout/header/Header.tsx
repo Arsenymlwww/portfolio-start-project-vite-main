@@ -26,7 +26,7 @@ export const Header: React.FC = () => {
 
                 {width < breakpoint ? (
                     // Мобильная версия: только кнопка бургера
-                    <BurgerButton isOpen={isOpen} onClick={() => setIsOpen(prev => !prev)}>
+                    <BurgerButton isOpen={isOpen} onClick={() => setIsOpen(prev => !prev)}  aria-expanded={isOpen} aria-label="Toggle menu">
                         <span />
                         <span />
                         <span />
